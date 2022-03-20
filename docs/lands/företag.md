@@ -20,7 +20,7 @@ Alla chefer hittar du i spawn eller om du skriver /warp företag.
 
 
 ## Våra företag & Chefer
-### Bosses stenbrott (Cef Bosse)
+### Bosses stenbrott (Chef Bosse)
 
 Om det är mining du vill syssla med så är Bosses stenbrott företaget För dig.
 Bosse betalar pengar till alla miners där ute.

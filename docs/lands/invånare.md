@@ -6,6 +6,8 @@ har alla gemensamt, dom styrs av servern och är inga spelare och dom kallas fö
 För att använda dig av en funktion hos en viss npc så klickar du på dom. 
 I dom allra flesta fall så använder du högerklick men ibland är det vänster och ibland fungerar båda.
 
+Förutom alla våra [chefer (företag)](företag.md) så hittar du även följande npcer i spawn.
+
 ## Smeden (Blacksmith)
 Stadens smed är glad och hjälpsam och hjälper gärna till att reparera dina saker.
 Att reparera material kan ibland vara väldigt dyrt så därför tar smeden en mindre kostnad.
