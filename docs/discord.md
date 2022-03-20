@@ -1,5 +1,5 @@
 # [Discord](http://discord.ekstammen.nu)
-Vår discord är en av grundpelarna i vår community där vi har vi en härlig samling glada och engagerade medlemmar.  
+Vår discord är en av grundpelarna och hjärtat i vår community där vi har vi en härlig samling glada och engagerade medlemmar.  
 
 Här hittar du alla våra senaste nyheter, du kan posta förslag tankar och ideer och på så sätt påverka utvecklingen av Ekstammen.  
 Om du dessutom är [verifierad](./plugins/discord.md) så kan du delta i utlottningar och få fler fördelar på discorden.
