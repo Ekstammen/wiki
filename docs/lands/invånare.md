@@ -20,5 +20,7 @@ han ibland råkar bränna sina bakverk.
 
 ## Bartender
 Om du är törstig så är det till bartendern du ska gå.
-Förutom att kunna blanda dom bästa drinkarna du kan tänka dig lyckas hon även ibland att röra ihop något 
+Förutom att kunna blanda dom bästa drinkarna du kan tänka dig lyckas han även ibland att röra ihop något 
 som smakar pyton men kanske ger det dig en positiv effekt på andra sätt.
+
+`!TIPS! Notera att det kostar 300 mynt att prata med en NPC samt att dom måste vila 60 min efter att du har satt dom i arbete.`
