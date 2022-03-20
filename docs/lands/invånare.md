@@ -24,7 +24,9 @@ Förutom att kunna blanda dom bästa drinkarna du kan tänka dig lyckas han äve
 som smakar pyton men kanske ger det dig en positiv effekt på andra sätt.
 
 ::: warning Tänk på!
-Notera att det kostar 300 mynt att prata med en NPC samt att dom måste vila 30 min efter att du har satt dom i arbete.
+Ovanstående npcer kostar 300 mynt att prata med en NPC samt att dom måste vila 30 min efter att du har satt dom i arbete.
 :::
 
-
+## Ranker
+Ranker är en npc som hanterar allas ranker, här hittar du en samling med alla ranker som finns. 
+För att läsa mer om detta så går du in på [ranker](ranker.md).
