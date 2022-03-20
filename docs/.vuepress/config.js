@@ -90,6 +90,7 @@ module.exports = {
           children: [
             '/lands/',
             '/lands/företag.md',
+            '/lands/wikiparrots.md',
             '/lands/casino.md',
             '/lands/playershop.md',
             '/lands/crates.md',
