@@ -23,4 +23,4 @@ Om du är törstig så är det till bartendern du ska gå.
 Förutom att kunna blanda dom bästa drinkarna du kan tänka dig lyckas han även ibland att röra ihop något 
 som smakar pyton men kanske ger det dig en positiv effekt på andra sätt.
 
-`!TIPS! Notera att det kostar 300 mynt att prata med en NPC samt att dom måste vila 60 min efter att du har satt dom i arbete.`
+`!TIPS! Notera att det kostar 300 mynt att prata med en NPC samt att dom måste vila 30 min efter att du har satt dom i arbete.`
