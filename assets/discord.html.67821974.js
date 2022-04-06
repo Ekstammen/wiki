@@ -1,0 +1,1 @@
+const e={key:"v-de22b6b4",path:"/discord.html",title:"Discord",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647797362e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:2},{name:"Superola86",email:"iddi86@hotmail.com",commits:2}]},filePathRelative:"discord.md"};export{e as data};

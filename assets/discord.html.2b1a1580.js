@@ -1,0 +1,1 @@
+const e={key:"v-e49d8c96",path:"/plugins/discord.html",title:"DiscordSRV",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"S\xE5 h\xE4r g\xF6r du",slug:"sa-har-gor-du",children:[]}],git:{updatedTime:1647215212e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:2}]},filePathRelative:"plugins/discord.md"};export{e as data};

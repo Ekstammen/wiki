@@ -1,0 +1,1 @@
+const t={key:"v-2513de29",path:"/plugins/lwc.html",title:"L\xE5s kistor & ugnar",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647199765e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"plugins/lwc.md"};export{t as data};

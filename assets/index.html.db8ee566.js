@@ -1,0 +1,1 @@
+const e={key:"v-744cbc12",path:"/smp/",title:"Vad \xE4r SMP?",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"FAQ",slug:"faq",children:[]}],git:{updatedTime:1647199765e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:2}]},filePathRelative:"smp/README.md"};export{e as data};

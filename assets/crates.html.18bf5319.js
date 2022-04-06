@@ -1,0 +1,1 @@
+const a={key:"v-7c12ff6e",path:"/lands/crates.html",title:"Kistor/Crates",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647284328e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1},{name:"Superola86",email:"iddi86@hotmail.com",commits:1}]},filePathRelative:"lands/crates.md"};export{a as data};

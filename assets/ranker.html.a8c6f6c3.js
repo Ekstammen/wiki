@@ -1,0 +1,1 @@
+import{_ as e,o as r,a,b as t,e as n}from"./app.56afa649.js";const o={},s={id:"ranker",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#ranker","aria-hidden":"true"},"#",-1),c=n(" Ranker"),d=[_,c];function h(i,f){return r(),a("h1",s,d)}var k=e(o,[["render",h],["__file","ranker.html.vue"]]);export{k as default};

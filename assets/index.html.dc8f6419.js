@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"V\xE4lkommen till Ekstammen",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Adresser",slug:"adresser",children:[]}],git:{updatedTime:1647385053e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:6}]},filePathRelative:"README.md"};export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as n,a as s,b as t,e as r}from"./app.56afa649.js";const o={},a={id:"onskebrunnen",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#onskebrunnen","aria-hidden":"true"},"#",-1),c=r(" \xD6nskebrunnen"),d=[_,c];function h(i,u){return n(),s("h1",a,d)}var l=e(o,[["render",h],["__file","\xF6nskebrunn.html.vue"]]);export{l as default};

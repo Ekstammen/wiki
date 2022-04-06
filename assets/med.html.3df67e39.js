@@ -1,0 +1,1 @@
+import{_ as e,o as t,a,b as o,e as s}from"./app.56afa649.js";const _={},c={id:"med",tabindex:"-1"},d=o("a",{class:"header-anchor",href:"#med","aria-hidden":"true"},"#",-1),r=s(" med"),n=[d,r];function h(i,m){return t(),a("h1",c,n)}var l=e(_,[["render",h],["__file","med.html.vue"]]);export{l as default};

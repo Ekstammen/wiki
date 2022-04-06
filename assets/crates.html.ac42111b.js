@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as s,b as a,e as r}from"./app.56afa649.js";const o={},c={id:"kistor-crates",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#kistor-crates","aria-hidden":"true"},"#",-1),n=r(" Kistor/Crates"),i=[_,n];function d(h,f){return t(),s("h1",c,i)}var m=e(o,[["render",d],["__file","crates.html.vue"]]);export{m as default};

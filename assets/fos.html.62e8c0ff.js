@@ -1,0 +1,1 @@
+import{_ as e,o as r,a,b as o,e as s}from"./app.56afa649.js";const t={},_={id:"fragor-svar",tabindex:"-1"},c=o("a",{class:"header-anchor",href:"#fragor-svar","aria-hidden":"true"},"#",-1),n=s(" Fr\xE5gor & Svar"),d=[c,n];function f(h,i){return r(),a("h1",_,d)}var m=e(t,[["render",f],["__file","fos.html.vue"]]);export{m as default};

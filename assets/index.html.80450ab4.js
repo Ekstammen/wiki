@@ -1,0 +1,1 @@
+const a={key:"v-f11a3500",path:"/lands/",title:"Vad \xE4r Lands?",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648835814e3,contributors:[{name:"Superola86",email:"iddi86@hotmail.com",commits:2},{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"lands/README.md"};export{a as data};

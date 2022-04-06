@@ -1,0 +1,1 @@
+const e={key:"v-8b8b299a",path:"/towny/regler.html",title:"Regler",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1636834132e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"towny/regler.md"};export{e as data};

@@ -1,0 +1,1 @@
+const a={key:"v-53a34dec",path:"/lands/flyga.html",title:"Flyga",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647199765e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"lands/flyga.md"};export{a as data};

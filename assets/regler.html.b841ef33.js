@@ -1,0 +1,1 @@
+const e={key:"v-1cd960bc",path:"/smp/regler.html",title:"Regler",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1636834132e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"smp/regler.md"};export{e as data};

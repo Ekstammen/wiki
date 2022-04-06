@@ -1,0 +1,1 @@
+const a={key:"v-02a162e8",path:"/lands/wikiparrots.html",title:"Wikipapegojor",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647794665e3,contributors:[{name:"Superola86",email:"iddi86@hotmail.com",commits:4},{name:"Macckkan",email:"macko9595@gmail.com",commits:2}]},filePathRelative:"lands/wikiparrots.md"};export{a as data};

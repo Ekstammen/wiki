@@ -1,0 +1,1 @@
+const t={key:"v-08078556",path:"/vote.html",title:"R\xF6sta",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647444803e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1},{name:"Superola86",email:"iddi86@hotmail.com",commits:1}]},filePathRelative:"vote.md"};export{t as data};

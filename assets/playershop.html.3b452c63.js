@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as r,b as s,e as t}from"./app.56afa649.js";const o={},_={id:"spelarnas-affarer",tabindex:"-1"},c=s("a",{class:"header-anchor",href:"#spelarnas-affarer","aria-hidden":"true"},"#",-1),n=t(" Spelarnas aff\xE4rer"),d=[c,n];function f(h,l){return a(),r("h1",_,d)}var p=e(o,[["render",f],["__file","playershop.html.vue"]]);export{p as default};

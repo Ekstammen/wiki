@@ -1,0 +1,1 @@
+const a={key:"v-547d9084",path:"/lands/casino.html",title:"Casino",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647285973e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1},{name:"Superola86",email:"iddi86@hotmail.com",commits:1}]},filePathRelative:"lands/casino.md"};export{a as data};

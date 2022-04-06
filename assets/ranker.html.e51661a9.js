@@ -1,0 +1,1 @@
+const a={key:"v-2156ad20",path:"/lands/ranker.html",title:"Ranker",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647199765e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"lands/ranker.md"};export{a as data};

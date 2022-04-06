@@ -1,0 +1,1 @@
+const a={key:"v-4db44c62",path:"/lands/playershop.html",title:"Spelarnas aff\xE4rer",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647199765e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"lands/playershop.md"};export{a as data};

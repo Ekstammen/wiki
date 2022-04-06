@@ -1,0 +1,1 @@
+const t={key:"v-7323670d",path:"/smp/enchants.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:163761167e4,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"smp/enchants.md"};export{t as data};

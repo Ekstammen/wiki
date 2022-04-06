@@ -1,0 +1,1 @@
+const t={key:"v-0de11884",path:"/plugins/lista.html",title:"Lista",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647199765e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"plugins/lista.md"};export{t as data};

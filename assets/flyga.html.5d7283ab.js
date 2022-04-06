@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as t,b as o,e as s}from"./app.56afa649.js";const _={},c={id:"flyga",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#flyga","aria-hidden":"true"},"#",-1),n=s(" Flyga"),d=[r,n];function l(f,h){return a(),t("h1",c,d)}var m=e(_,[["render",l],["__file","flyga.html.vue"]]);export{m as default};

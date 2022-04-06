@@ -1,0 +1,1 @@
+const e={key:"v-e1dafa42",path:"/towny/ranker.html",title:"Ranker",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Epic",slug:"epic",children:[]},{level:2,title:"F\xF6rdelar",slug:"fordelar",children:[]}],git:{updatedTime:1647215212e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:2}]},filePathRelative:"towny/ranker.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-ffbc3aa8",path:"/bedrock.html",title:"Spela med bedrock edition",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1637093868e3,contributors:[{name:"Macckkan",email:"macko9595@gmail.com",commits:1}]},filePathRelative:"bedrock.md"};export{e as data};

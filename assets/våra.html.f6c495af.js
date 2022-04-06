@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as t,b as r,e as o}from"./app.56afa649.js";const s={},_={id:"vara",tabindex:"-1"},c=r("a",{class:"header-anchor",href:"#vara","aria-hidden":"true"},"#",-1),n=o(" v\xE5ra"),d=[c,n];function h(i,f){return a(),t("h1",_,d)}var v=e(s,[["render",h],["__file","v\xE5ra.html.vue"]]);export{v as default};
