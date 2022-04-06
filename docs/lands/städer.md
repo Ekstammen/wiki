@@ -21,16 +21,16 @@ Om ett land inte kan betala sin skatt så kommer servern att ta bort så många 
 Tex om varje chunk kostar 50 mynt och landet har claimat 100 chunks så kostar detta 500 om dagen.
 Om landet bara har 450 mynt i sin bank så kommer en chunk att bli vildmark, staden förlorar alltså en chunk.
 
-Om en spelare inte kana betala sin skatt till staden så kickas hen och förlorar sin eventuella tomt.
+Om en spelare inte kan betala sin skatt till staden så kickas hen och förlorar sin eventuella tomt.
 
 
 ### Lista på kostnader
 * Skapa stad: 4000 mynt.
-* CLaima en chunk: 1500 mynt.
+* Claima en chunk: 1500 mynt.
 * Skatt till servern: 50 mynt per chunk.
-* Byta namn på ett land: 1000 mynt.
-* Ändra landets spawnposition: 400 mynt.
-* Byta ägare på ett land: 10 000 mynt.
+* Byta namn på en stad: 1000 mynt.
+* Ändra stadens spawnposition: 400 mynt.
+* Byta ägare på en stad: 10 000 mynt.
 
 ## Inaktivitet
 Om ägaren av ett land / en stad är inaktiv i 90 dagar så flagga den som inaktiv.
@@ -46,4 +46,4 @@ Om en invånare är inaktiv i 90 dagar så kommer hen att tas bort från staden 
 - En spelare måste vara trusted/invånare i en stad för att sätta ett hem där (/sethome).
 - Man kan inte sälja en tomt, bara hyra.
 - Monster och djur som spawnar i wild kan alltid gå in i en stad. 
-- Ett nytt land är skattebefriat i två dagar.
+- En ny stad är skattebefriad i två dagar.
